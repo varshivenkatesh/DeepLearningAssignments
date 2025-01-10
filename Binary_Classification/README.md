@@ -2,7 +2,7 @@
   The assignment is aimed at performing the binary classification task of differentiating between 'cat' and 'non-cat' classes of images. Gained hands-on experience with utilizing *neural networks*, *data processing*, *forward* and *backward propagation* and *parameter updates*.
 
 **Tools Used:**
-  Python, NumPy, Matplotlib/Seaborn, TensorFlow, Jupyter Notebook.
+  Python, NumPy, Matplotlib/Seaborn, TensorFlow, Jupyter Notebook, Google Colab.
 
 **Learning Outcomes:**
   * Loading and preprocessing dataset for supervised learning tasks.
